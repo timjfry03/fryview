@@ -164,3 +164,7 @@ Example - Start at 320px wide and drag the screen to make it larger.  You'll not
 https://responsive-circle.netlify.app/
                                  
 So instead of writing new css styles to shrink every element to be smaller, all we have to do is write one line of code and the entire container shrinks proportionally together and maintains their scale from mobile to desktop.  This is the true power of using ems properly and mathematically.
+
+
+
+https://timjfry03.github.io/fryview/index.html
